@@ -136,7 +136,7 @@ color: burlywood;
     <h3><strong>On his first assignment in the inaugural World T20 in 2007, Dhoni and his young troops romped to the title in a shock victory for the inexperienced Indian side, bringing about the T20 revolution in India. Dhoni's calm and composed leadership</strong></h3>
 </div>
 <div id="copyright">
-    <h2>Reserved & Copyright &COPY by Shashank</h2>
+    <h2>Reserved & Copyright &COPY by CHANDANA</h2>
 </div>
  </div>
     
